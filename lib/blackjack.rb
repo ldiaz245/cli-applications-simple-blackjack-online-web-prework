@@ -1,5 +1,5 @@
 def welcome
-  'puts "HI"
+  disply_card_total
 end
 
 def deal_card
